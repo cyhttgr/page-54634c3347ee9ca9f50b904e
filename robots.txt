@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://n3gom0x.cn/sitemap.xml

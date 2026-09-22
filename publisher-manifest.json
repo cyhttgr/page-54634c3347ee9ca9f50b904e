@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7dd9e2edc6fcc7cbfb22091e",
+  "owner": "cyhttgr",
+  "repo": "page-54634c3347ee9ca9f50b904e",
+  "title": "深海奇妙探旅",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "54634c3347ee9ca9f50b904e",
+      "a": "深海奇妙探旅",
+      "b": "2027官方最新地址导航",
+      "entity": "深海奇妙探旅",
+      "brand": "深海奇妙探旅",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "03431927ccdb4e0c72f21f74cd8d35dbe2a7c6e1134b027fc9dc16d43ba3b88d",
+      "content": {
+        "primary_entity": "深海奇妙探旅",
+        "keyword1": "深海奇妙探旅",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_HERO_SUBTITLE": "深海奇妙探旅跨区加速服务",
+          "AI_HERO_INTRO": "深海奇妙探旅提供多档订阅套餐，覆盖基础浏览、流媒体解锁与游戏专线加速，支持多设备同时在线，适合个人、家庭及小型团队按需选用。",
+          "AI_VISUAL_TITLE": "深海探旅跨境加速",
+          "AI_HIGHLIGHT_1": "基础版满足日常浏览",
+          "AI_HIGHLIGHT_2": "旗舰版流媒体与游戏加速",
+          "AI_HIGHLIGHT_3": "团队版多设备带宽充裕",
+          "AI_DESCRIPTION": "，深海奇妙探旅按不同使用强度划分基础版、旗舰版与团队版，月付或年付均可选择。基础版提供每月 100GB 流量与 3 台设备在线，适合日常浏览；旗舰版每月 300GB 流量、支持 5 台设备，并含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备，配备 VIP 专属节点与定制路由。",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURES_INTRO": "按流量、设备数和线路类型匹配套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数量选择",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，可按常用设备量对应选择。",
+          "AI_FEATURE_TITLE_2": "按线路类型选择",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，适合对延迟敏感的场景。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选择",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更划算，如旗舰版按年付仅需 ¥350/年，适合长期稳定使用。",
+          "AI_CLIENTS_TITLE": "常用客户端",
+          "AI_CLIENTS_INTRO": "按设备类型选用对应客户端并导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，按流量与设备数区分。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线设备数量，在基础版、旗舰版和团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与客户端支持情况，并核对套餐包含的流量与设备上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中按文档导入订阅链接，完成后即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "按需选档，顺畅连接",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。设备数量按同时在线计算，切换设备前先退出旧设备即可。",
+          "AI_FAQ_ANSWER_2": "旗舰版自带 IPLC 专线游戏加速优化，在延迟敏感的场景下表现更稳定。基础版使用普通线路节点池，团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算。基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于省下两个月的月付费用。",
+          "AI_FAQ_ANSWER_4": "每月流量在套餐周期内累计使用，基础版 100GB、旗舰版 300GB、团队版 1000GB。超出后可以升级套餐，下一周期重新计算。",
+          "AI_FAQ_ANSWER_5": "可以，根据同时在线设备数量选择：1 至 3 台选基础版，4 至 5 台选旗舰版，多设备团队协作选团队版。",
+          "AI_FAQ_QUESTION_1": "一个套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_QUESTION_3": "年付和月付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "每月流量用完了怎么办？",
+          "AI_FAQ_QUESTION_5": "怎样根据设备数量选择套餐？",
+          "AI_FAQ_TITLE": "套餐与设备常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "n3gom0x.cn",
+    "host": "n3gom0x.cn"
+  },
+  "file_hashes": {
+    "index.html": "8a2cfeaddf47ead9626150d5c02f50497f5f7e3d1edf92fa9d2e31aa22e542a3",
+    "sitemap.xml": "1244d6d67b06cb4429822193240cc85c0603c74be383ab381a23e52eddb2024a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bb8fa0a7f5a22f545b45d384d439f8ffd9d92e461ceefcc6841f2843afd49202",
+    "robots.txt": "669546761fe4912cf623a2f1298736307f8f6a1586832c2be699bb5e7051bc00",
+    "4abdd63b01506c957cad2707c8547480.txt": "d016353628dbb97ad7fd80b48dc5efa9bb900d7aad807ef2d30536e07c9b8a84"
+  },
+  "revision": "248553d5e60adb8603ec1786b98b3c403e34eff1ff2df79dae9919c366e2a5ed"
+}
